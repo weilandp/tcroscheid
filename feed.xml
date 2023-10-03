@@ -3,7 +3,7 @@
     <title>Tennisclub Roscheid</title>
     <link href="https://weilandp.github.io/tcroscheid/feed.xml" rel="self" />
     <link href="https://weilandp.github.io/tcroscheid" />
-    <updated>2023-09-24T18:37:20+02:00</updated>
+    <updated>2023-10-03T12:41:38+02:00</updated>
     <author>
         <name>TC Roscheid</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://weilandp.github.io/tcroscheid/die-anlage.html"/>
         <id>https://weilandp.github.io/tcroscheid/die-anlage.html</id>
+        <media:content url="https://weilandp.github.io/tcroscheid/media/posts/10/TCR2018-DSC03335.jpg" medium="image" />
 
-        <updated>2023-09-23T21:08:26+02:00</updated>
+        <updated>2023-09-26T18:33:52+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://weilandp.github.io/tcroscheid/media/posts/10/TCR2018-DSC03335.jpg" alt="" />
                     //Thomas Heiles Stra&szlig;e 123 54290 Trier"; OpenLayers.Lang.setCode('de'); // Position und Zoomstufe der Karte var lon = 6.641389; var lat = 49.756667; var zoom = 7; map = new OpenLayers.Map('map', { projection: new OpenLayers.Projection("EPSG:900913"), displayProjection: new OpenLayers.Projection("EPSG:4326"), controls: [ new OpenLayers.Control.Navigation(), new OpenLayers.Control.LayerSwitcher(), new OpenLayers.Control.PanZoomBar()], maxExtent: new OpenLayers.Bounds(-20037508.34,-20037508.34, 20037508.34, 20037508.34), numZoomLevels: 18, maxResolution: 156543, units: 'meters' }); layer_mapnik = new OpenLayers.Layer.OSM.Mapnik("Mapnik"); layer_markers = new OpenLayers.Layer.Markers("Address", { projection: new OpenLayers.Projection("EPSG:4326"), visibility: true, displayInLayerSwitcher: false }); map.addLayers([layer_mapnik, layer_markers]); jumpTo(lon, lat, zoom); // Position des Markers addMarker(layer_markers, 6.641389, 49.756667, popuptext); } //]]> Karte (Testversion) © OpenStreetMap Mitwirkende, ODbL
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://weilandp.github.io/tcroscheid/media/posts/10/TCR2018-DSC03335.jpg" class="type:primaryImage" alt="" /></p>
                 <!-- [if IE]>
 <link rel="stylesheet" type="text/css" href="ie_map.css"></link>
 <![endif]-->
@@ -96,15 +99,18 @@ function drawmap() {
         </author>
         <link href="https://weilandp.github.io/tcroscheid/mannschaften.html"/>
         <id>https://weilandp.github.io/tcroscheid/mannschaften.html</id>
+        <media:content url="https://weilandp.github.io/tcroscheid/media/posts/9/TCR2018-DSC03379.jpg" medium="image" />
 
-        <updated>2023-09-23T21:04:33+02:00</updated>
+        <updated>2023-09-26T18:35:23+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://weilandp.github.io/tcroscheid/media/posts/9/TCR2018-DSC03379.jpg" alt="" />
                     Damen 1 Herren 1 Mädchen U 15 1 Jungen U 15 1 Gemischt U 12 GELB 1 Damen 40 1 SG Herren 2 Mädchen U 18 1 Jungen U 18 1 Gemischt U 12 GRÜN 1 Damen 40 2 SG Herren 40 1 SG Jungen U 18 2 Gemischt U 10 1 Damen 40 3 SG Herren 40 2 SG Damen 50 1 SG Herren 40 3 SG Herren 50 1
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://weilandp.github.io/tcroscheid/media/posts/9/TCR2018-DSC03379.jpg" class="type:primaryImage" alt="" /></p>
                 <table style="border-collapse: collapse; border-style: dotted;">
 <tbody>
 <tr>
@@ -242,7 +248,7 @@ function drawmap() {
         <link href="https://weilandp.github.io/tcroscheid/datenschutzerklaerung.html"/>
         <id>https://weilandp.github.io/tcroscheid/datenschutzerklaerung.html</id>
 
-        <updated>2023-09-23T19:57:20+02:00</updated>
+        <updated>2023-10-03T12:09:19+02:00</updated>
             <summary>
                 <![CDATA[
                     Wer wir sind Die Adresse unserer Website ist: https://www.tcroscheid.de Bei jedem Aufruf unserer Internetseite erfasst unser System automatisiert Daten und Informationen vom Computersystem des aufrufenden Rechners. Folgende Daten werden hierbei erhoben: – Informationen über den Browsertyp und die verwendete Version – IP Adresse des Nutzers – Datum und Uhrzeit des Zugriffs Diese Daten werden in den Logfiles des Systems für 30 Tage gespeichert und anschließend automatisch wieder gelöscht. Eine Speicherung dieser Daten zusammen mit anderen personenbezogenen Daten des Nutzers findet nicht statt. Rechtsgrundlage für die vorübergehende Speicherung der Daten ist Art. 6 Abs. 1 lit. f DSGVO. Die vorübergehende Speicherung der IP-Adresse durch das System ist notwendig, um eine Auslieferung der Website an den Rechner des Nutzers zu ermöglichen und minimale Sicherheitsanforderungen sicherstellen zu können. Wir erfassen, speichern und verarbeiten personenbezogenene Daten, die Sie uns im Rahmen einer Emailanfragen schicken. Wir benötigen diese Daten zur Bearbeitung Ihrer Anfrage. Wenn Besucher Kommentare auf der Website schreiben, sammeln wir die Daten, die im Kommentar-Formular angezeigt werden, außerdem die IP-Adresse des Besuchers und den User-Agent-String (damit wird der Browser identifiziert), um die Erkennung&hellip;
@@ -258,7 +264,7 @@ function drawmap() {
 <div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 <h2>Wer wir sind</h2>
-<p>Die Adresse unserer Website ist: https://www.tcroscheid.de</p>
+<p>Die Adresse unserer Website ist: <a href="https://www.tcroscheid.de">https://www.tcroscheid.de</a></p>
 <h2>Welche personenbezogenen Daten wir sammeln und warum wir sie sammeln</h2>
 <h3>Internetseite</h3>
 <p>Bei jedem Aufruf unserer Internetseite erfasst unser System automatisiert Daten und Informationen vom Computersystem des aufrufenden Rechners. Folgende Daten werden hierbei erhoben:</p>
@@ -361,7 +367,7 @@ function drawmap() {
 <p>Besucher-Kommentare könnten von einem automatisierten Dienst zur Spam-Erkennung untersucht werden.</p>
 <h2>Kontakt-Informationen</h2>
 <p>Falls Sie Fragen oder Hinweise bezüglich des Datenschutzes des Vereins haben, können Sie sich hier melden.</p>
-<div>Email:info@tcroscheid.de <br>Tel:06501-4111<br>Adresse:Tennisclub Roscheid e. V. Konz<br>Roscheider Hof 5<br>54329 Konz</div>
+<div>Email: <a href="mailto:info@tcroscheid.de">info@tcroscheid.de</a> <br>Tel: 06501-4111<br>Adresse: Tennisclub Roscheid e. V. Konz<br>Roscheider Hof 5<br>54329 Konz</div>
 </div>
 </div>
 </div>
@@ -379,22 +385,27 @@ function drawmap() {
         </author>
         <link href="https://weilandp.github.io/tcroscheid/mitglied-werden.html"/>
         <id>https://weilandp.github.io/tcroscheid/mitglied-werden.html</id>
+        <media:content url="https://weilandp.github.io/tcroscheid/media/posts/6/pexels-matthew-turner-2568551.jpg" medium="image" />
 
-        <updated>2023-09-23T20:58:08+02:00</updated>
+        <updated>2023-09-24T20:22:01+02:00</updated>
             <summary>
                 <![CDATA[
-                    Mitglied werden Mitgliedsbeiträge Preis pro Quartal Erwachsener 45,00€ Zwei Erwachsene 79,50€ Familien 90,00€ Kind bis 10 Jahre 15,00€ Kind über 10 Jahre 22,50€ Schüler(in), Auszubildende(r), Student(in) 30,00€ Passives Mitglied 15,00€
+                        <img src="https://weilandp.github.io/tcroscheid/media/posts/6/pexels-matthew-turner-2568551.jpg" alt="" />
+                    Mitgliedschaft beantragen Bitte laden Sie sich unseren Mitgliedschaftsantrag herunter, füllen Sie diesen elektronisch aus und schicken uns den Antrag unterschrieben per E-Mail oder Fax zu. Mitglied werden Mitgliedsbeiträge Preis pro Quartal Erwachsener 45,00€ Zwei Erwachsene 79,50€ Familien 90,00€ Kind bis 10 Jahre 15,00€ Kind über 10 Jahre 22,50€ Schüler(in), Auszubildende(r), Student(in) 30,00€ Passives Mitglied 15,00€
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--highlight "><a href="mailto:info@tcroscheid.de?cc=&amp;bcc=&amp;subject=Mitgliedschaft&amp;body=">Mitglied werden</a></p>
+                    <p><img src="https://weilandp.github.io/tcroscheid/media/posts/6/pexels-matthew-turner-2568551.jpg" class="type:primaryImage" alt="" /></p>
+                <h3>Mitgliedschaft beantragen</h3>
+<p>Bitte laden Sie sich unseren Mitgliedschaftsantrag herunter, füllen Sie diesen elektronisch aus und schicken uns den Antrag unterschrieben per E-Mail oder Fax zu. </p>
+<p class="msg msg--highlight  msg--info"><a href="mailto:info@tcroscheid.de?cc=&amp;bcc=&amp;subject=Mitgliedschaft&amp;body=">Mitglied werden</a></p>
 <h3 class="widget-title">Mitgliedsbeiträge</h3>
 <div class="siteorigin-widget-tinymce textwidget">
 <table>
 <tbody>
 <tr>
-<th colspan="2">Preis pro Quartal</th>
+<th colspan="2"><strong>Preis pro Quartal</strong></th>
 </tr>
 <tr>
 <td>Erwachsener</td>
@@ -438,10 +449,19 @@ function drawmap() {
         <link href="https://weilandp.github.io/tcroscheid/homepage-2.html"/>
         <id>https://weilandp.github.io/tcroscheid/homepage-2.html</id>
             <category term="Homepage"/>
+            <category term="Aktuelles"/>
 
-        <updated>2023-09-23T14:15:11+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2023-09-26T20:40:32+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Homepage 1</title>
@@ -451,10 +471,19 @@ function drawmap() {
         <link href="https://weilandp.github.io/tcroscheid/homepage-1.html"/>
         <id>https://weilandp.github.io/tcroscheid/homepage-1.html</id>
             <category term="Homepage"/>
+            <category term="Aktuelles"/>
 
-        <updated>2023-09-23T14:14:59+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2023-09-26T20:40:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   <br><br>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Wir über uns</title>
@@ -555,7 +584,7 @@ function drawmap() {
         <id>https://weilandp.github.io/tcroscheid/tennishalle.html</id>
         <media:content url="https://weilandp.github.io/tcroscheid/media/posts/2/ovptrbvn.bmp" medium="image" />
 
-        <updated>2023-09-23T21:16:03+02:00</updated>
+        <updated>2023-09-24T21:51:26+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://weilandp.github.io/tcroscheid/media/posts/2/ovptrbvn.bmp" alt="" />
@@ -566,7 +595,7 @@ function drawmap() {
             <![CDATA[
                     <p><img src="https://weilandp.github.io/tcroscheid/media/posts/2/ovptrbvn.bmp" class="type:primaryImage" alt="" /></p>
                 <p>Erleben Sie Spielkomfort auf höchstem Niveau unabhängig von Wind und Wetter. Neben den sechs Außenplätzen verfügt die Anlage des TC Roscheid auch über zwei Hallenplätze. Dank einer exklusiven Granulatmischung spielen Sie hier wie auf Sand - und das zu Preisen, die sich sehen lassen können.</p>
-<p><a href="https://tennisclub-roscheid.de/reservations.php?type_id=1&amp;page=1" title="Buchung Tennishalle" target="_blank" rel="noopener noreferrer">Buchen Sie hier einen Hallenplatz</a></p>
+<p class="msg msg--info"><a href="https://tennisclub-roscheid.de/reservations.php?type_id=1&amp;page=1" title="Buchung Tennishalle" target="_blank" rel="noopener noreferrer">Buchen Sie hier einen Hallenplatz</a></p>
 <div class="sow-tabs-panel">
 <div class="sow-tabs-panel-content" tabindex="0" role="tabpanel">
 <p><strong>01.10.2023 - 30.04.2024</strong></p>
@@ -574,9 +603,9 @@ function drawmap() {
 <table>
 <tbody>
 <tr>
-<th>Montag - Sonntag</th>
-<th>Vereinsmitglied</th>
-<th>Nichtmitglied</th>
+<th><strong>Montag - Sonntag</strong></th>
+<th><strong>Vereinsmitglied</strong></th>
+<th><strong>Nichtmitglied</strong></th>
 </tr>
 <tr>
 <td>07:00 bis 16:00 Uhr</td>
@@ -598,9 +627,9 @@ function drawmap() {
 <table>
 <tbody>
 <tr>
-<th>Montag - Sonntag</th>
-<th>Wintersaison 30 Wochen</th>
-<th>Jahresabonnement 52 Wochen</th>
+<th><strong>Montag - Sonntag</strong></th>
+<th><strong>Wintersaison 30 Wochen</strong></th>
+<th><strong>Jahresabonnement 52 Wochen</strong></th>
 </tr>
 <tr>
 <td>07:00 bis 16:00 Uhr</td>
@@ -642,39 +671,38 @@ function drawmap() {
         </author>
         <link href="https://weilandp.github.io/tcroscheid/lorem-ipsum.html"/>
         <id>https://weilandp.github.io/tcroscheid/lorem-ipsum.html</id>
+        <media:content url="https://weilandp.github.io/tcroscheid/media/posts/1/DSC_5108.jpg" medium="image" />
             <category term="Homepage"/>
 
-        <updated>2023-09-24T18:37:20+02:00</updated>
+        <updated>2023-10-03T12:41:38+02:00</updated>
             <summary>
                 <![CDATA[
-                    Tennis spielen mit Flair Auf den Höhen von Mosel und Saar bietet der Tennisclub Roscheid für die Liebhaber des Tennissports ideale Voraussetzungen. Direkt neben dem Heimat- und Freilichtmuseum gelegen, hat man hier seit der Gründung im Jahre 1979 ein besonderes Flair geschaffen. Sechs Außen- und zwei Hallenplätze bieten die Möglichkeit, Sommer wie Winter seinem Hobby nachzugehen. Bei unserem Vertragspartner, der Tennisschule Oliver Neufang, lernen Anfänger und Fortgeschrittene mit Spaß Tennis zu spielen. In unserem Vereinslokal kann man sich im Sommer und Winter mit warmen Speisen und erfrischenden Getränke stärken. Tennishalle Mitglied werden Vorstand
+                        <img src="https://weilandp.github.io/tcroscheid/media/posts/1/DSC_5108.jpg" alt="" />
+                    Tennis spielen mit Flair Auf den Höhen von Mosel und Saar bietet der Tennisclub Roscheid für die Liebhaber des Tennissports ideale Voraussetzungen. In unserem Vereinslokal kann man sich im Sommer und Winter mit warmen Speisen und erfrischenden Getränke stärken. Tennishalle Mitglied werden Vorstand
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://weilandp.github.io/tcroscheid/media/posts/1/DSC_5108.jpg" class="type:primaryImage" alt="" /></p>
                 <div id="pgc-34-2-1" class="panel-grid-cell">
 <div id="panel-34-2-1-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="3">
 <div class="so-widget-sow-editor so-widget-sow-editor-base">
 <div class="siteorigin-widget-tinymce textwidget">
 <h2>Tennis spielen mit Flair</h2>
-<p><span class="Wp-Platzhalter-C Sz-Platzhalter-C-160px">Auf den Höhen von Mosel und Saar bietet der Tennisclub Roscheid für die Liebhaber des Tennissports ideale Voraussetzungen.<br></span></p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://weilandp.github.io/tcroscheid/media/posts/1/gallery/DSC_5108.jpg" data-size="4288x2848"><img loading="lazy" src="https://weilandp.github.io/tcroscheid/media/posts/1/gallery/DSC_5108-thumbnail.jpg" alt="" width="720" height="478"></a></figure>
-</div></div>
-<p> </p>
-<p><span class="Wp-Platzhalter-C Sz-Platzhalter-C-160px">Direkt neben dem Heimat- und Freilichtmuseum gelegen, hat man hier seit der Gründung im Jahre 1979 ein besonderes Flair geschaffen. Sechs Außen- und zwei Hallenplätze bieten die Möglichkeit, Sommer wie Winter seinem Hobby nachzugehen. Bei unserem Vertragspartner, der Tennisschule Oliver Neufang, lernen Anfänger und Fortgeschrittene mit Spaß Tennis zu spielen.</span></p>
-<p><span class="Körper2-C">In unserem Vereinslokal kann man sich im Sommer und Winter mit warmen Speisen und erfrischenden Getränke stärken.</span></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<p>Auf den Höhen von Mosel und Saar bietet der Tennisclub Roscheid für die Liebhaber des Tennissports ideale Voraussetzungen.</p>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://weilandp.github.io/tcroscheid/media/posts/1/TCR2018-DSC03335.jpg" alt="" width="301" height="201" sizes="100vw" srcset="https://weilandp.github.io/tcroscheid/media/posts/1/responsive/TCR2018-DSC03335-xs.jpg 300w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/TCR2018-DSC03335-sm.jpg 480w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/TCR2018-DSC03335-md.jpg 768w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/TCR2018-DSC03335-lg.jpg 1024w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/TCR2018-DSC03335-xl.jpg 1360w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/TCR2018-DSC03335-2xl.jpg 1600w"></figure>Direkt neben dem Heimat- und Freilichtmuseum gelegen, hat man hier seit der Gründung im Jahre 1979 ein besonderes Flair geschaffen. Sechs Außen- und zwei Hallenplätze bieten die Möglichkeit, Sommer wie Winter seinem Hobby nachzugehen. Bei unserem Vertragspartner, der Tennisschule Oliver Neufang, lernen Anfänger und Fortgeschrittene mit Spaß Tennis zu spielen.</p>
+<p>In unserem Vereinslokal kann man sich im Sommer und Winter mit warmen Speisen und erfrischenden Getränke stärken.</p>
+<table style="border-collapse: collapse; width: 100%; border-style: none;" border="0">
 <tbody>
-<tr>
-<td style="width: 33.2843%;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://weilandp.github.io/tcroscheid/media/posts/1/Tennishalle_03.jpg" alt="" width="720" height="1080" sizes="100vw" srcset="https://weilandp.github.io/tcroscheid/media/posts/1/responsive/Tennishalle_03-xs.jpg 300w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/Tennishalle_03-sm.jpg 480w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/Tennishalle_03-md.jpg 768w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/Tennishalle_03-lg.jpg 1024w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/Tennishalle_03-xl.jpg 1360w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/Tennishalle_03-2xl.jpg 1600w"></figure></td>
-<td style="width: 33.2843%;"> </td>
-<td style="width: 33.2889%;"> </td>
+<tr style="border-style: hidden;">
+<td style="border-style: hidden;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://weilandp.github.io/tcroscheid/media/posts/1/Tennishalle_03.jpg" alt="" width="720" height="1080" sizes="100vw" srcset="https://weilandp.github.io/tcroscheid/media/posts/1/responsive/Tennishalle_03-xs.jpg 300w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/Tennishalle_03-sm.jpg 480w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/Tennishalle_03-md.jpg 768w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/Tennishalle_03-lg.jpg 1024w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/Tennishalle_03-xl.jpg 1360w ,https://weilandp.github.io/tcroscheid/media/posts/1/responsive/Tennishalle_03-2xl.jpg 1600w"></figure></td>
+<td style="width: 33.3809%; border-style: hidden;"> </td>
+<td style="width: 33.2382%; border-style: hidden;"> </td>
 </tr>
 <tr>
-<td class="align-center" style="width: 33.2843%;">Tennishalle</td>
-<td class="align-center" style="width: 33.2843%;">Mitglied werden</td>
-<td class="align-center" style="width: 33.2889%;">Vorstand</td>
+<td class="align-center" style="width: 33.3809%; border-style: hidden;"><button class="button button_blue"><a href="/tennishalle.html">Tennishalle</a></button></td>
+<td class="align-center" style="width: 33.3809%; border-style: hidden;"><button class="button button_red">Mitglied werden</button></td>
+<td class="align-center" style="width: 33.2382%; border-style: hidden;"><button class="button button_black">Vorstand</button></td>
 </tr>
 </tbody>
 </table>
