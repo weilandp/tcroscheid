@@ -3,7 +3,7 @@
     <title>Tennisclub Roscheid</title>
     <link href="https://weilandp.github.io/tcroscheid/feed.xml" rel="self" />
     <link href="https://weilandp.github.io/tcroscheid" />
-    <updated>2023-10-03T12:41:38+02:00</updated>
+    <updated>2023-10-03T13:48:21+02:00</updated>
     <author>
         <name>TC Roscheid</name>
     </author>
@@ -674,7 +674,7 @@ function drawmap() {
         <media:content url="https://weilandp.github.io/tcroscheid/media/posts/1/DSC_5108.jpg" medium="image" />
             <category term="Homepage"/>
 
-        <updated>2023-10-03T12:41:38+02:00</updated>
+        <updated>2023-10-03T13:48:21+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://weilandp.github.io/tcroscheid/media/posts/1/DSC_5108.jpg" alt="" />
@@ -700,8 +700,8 @@ function drawmap() {
 <td style="width: 33.2382%; border-style: hidden;"> </td>
 </tr>
 <tr>
-<td class="align-center" style="width: 33.3809%; border-style: hidden;"><button class="button button_blue"><a href="/tennishalle.html">Tennishalle</a></button></td>
-<td class="align-center" style="width: 33.3809%; border-style: hidden;"><button class="button button_red">Mitglied werden</button></td>
+<td class="align-center" style="width: 33.3809%; border-style: hidden;"><button class="button button_blue"><a href="tennishalle.html">Tennishalle</a></button></td>
+<td class="align-center" style="width: 33.3809%; border-style: hidden;"><button class="button button_red"><a href="mitglied-werden.html">Mitglied werden</a></button></td>
 <td class="align-center" style="width: 33.2382%; border-style: hidden;"><button class="button button_black">Vorstand</button></td>
 </tr>
 </tbody>
